@@ -1,0 +1,7 @@
+C:/Users/user/Desktop/project c++/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/project c++/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/user/Desktop/project c++/build/includ/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/project c++/build/lib/CMakeFiles/lib.dir
+C:/Users/user/Desktop/project c++/build/lib/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/project c++/build/src/CMakeFiles/cinema.dir
+C:/Users/user/Desktop/project c++/build/src/CMakeFiles/ALL_BUILD.dir
