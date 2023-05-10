@@ -1,2 +1,10 @@
 C:/Users/user/Desktop/project c++/out/build/x64-Debug/CMakeFiles/edit_cache.dir
 C:/Users/user/Desktop/project c++/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/project c++/out/build/x64-Debug/includ/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/project c++/out/build/x64-Debug/includ/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/project c++/out/build/x64-Debug/lib/CMakeFiles/lib.dir
+C:/Users/user/Desktop/project c++/out/build/x64-Debug/lib/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/project c++/out/build/x64-Debug/lib/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/project c++/out/build/x64-Debug/src/CMakeFiles/cinema.dir
+C:/Users/user/Desktop/project c++/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/project c++/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir

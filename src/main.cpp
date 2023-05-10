@@ -1,17 +1,17 @@
 
-#include"version.h"
-#include"lib.h"
+#include"version.h" //подключаем сконфигурированный файл 
+#include"lib.h" //заголовочный файл из библиотеки
 
 
 int main() //функция, с которой все начинатеся
 {
 	srand(time(nullptr)); //для получения разного стартового значения
-	cout << "PROJECT VERSION " << (PROJECT_VERSION) << endl;
+	cout << "PROJECT VERSION " << PROJECT_VERSION << endl; //выводим версию
 	User person; //создаем объект(автоматом срабатывает конструктор)
 	try { //для поиска исключений
-		person.checking_data(); //вызываем метод 1
-		person.password1(person); //вызываем метод 2
-		person.films(); //вызываем метод 3пше g
+		checking_data(person); //вызываем метод 1
+		password1(person); //вызываем метод 2
+        films(); //вызываем метод 3пше g
 	}
 	catch (out_of_range err) //обработка исключений с выходом за пределы вектора
 	{

@@ -1,4 +1,4 @@
-#pragma once
+#pragma once //останавливает двойное подключение заголовочного файла
 #include<iostream> //директива процессора, подключающая библиотеки
 #include<string> //библиотека для работы со строками
 #include<vector> //библиотека для работы с векторами
@@ -6,10 +6,9 @@
 #include<ctime> //библиотека для работы с ГПСЧ
 #include<stdexcept> //библиотека для работы с исключениями
 #include<cstdlib> //библиотека для работы с ГПСЧ
-using namespace std; //
+using namespace std; //пространство имен
 
-class User //создаем класс 
-{
+class User {
 public: //открытый модификатор доступа
 	User() //создаем конструктор
 	{
@@ -52,8 +51,7 @@ private: //приватный модификатор доступа
 	string phone_number; //поле 2
 	int password; //поле 3
 	string password2; //поле 4
-};
-
-void checking_data();
-void password1(User& a);
-void films();
+}; //создаем класс 
+void checking_data(User&r); //декларация функции 1
+void password1(User& a); //декларация функции 2
+void films(); //декларация функции 3 
