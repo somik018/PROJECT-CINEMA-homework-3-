@@ -6,6 +6,8 @@
 #include<stdexcept> //библиотека для работы с исключениями
 #include<cstdlib> //библиотека для работы с ГПСЧ
 using namespace std; //
+#include"version.h"
+#include"lib.h"
 
 class User //создаем класс 
 {
@@ -161,6 +163,7 @@ void catchs()
 int main() //функция, с которой все начинатеся
 {
 	srand(time(nullptr)); //для получения разного стартового значения
+	cout << "PROJECT VERSION " << (PROJECT_VERSION) << endl;
 	User person; //создаем объект(автоматом срабатывает конструктор)
 	try { //для поиска исключений
 		person.checking_data(); //вызываем метод 1

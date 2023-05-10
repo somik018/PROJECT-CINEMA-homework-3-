@@ -124,6 +124,21 @@ CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 //Value Computed by CMake
 CMAKE_PROJECT_NAME:STATIC=ROOT
 
+//Value Computed by CMake
+CMAKE_PROJECT_VERSION:STATIC=0.0.8
+
+//Value Computed by CMake
+CMAKE_PROJECT_VERSION_MAJOR:STATIC=0
+
+//Value Computed by CMake
+CMAKE_PROJECT_VERSION_MINOR:STATIC=0
+
+//Value Computed by CMake
+CMAKE_PROJECT_VERSION_PATCH:STATIC=8
+
+//Value Computed by CMake
+CMAKE_PROJECT_VERSION_TWEAK:STATIC=
+
 //RC compiler
 CMAKE_RC_COMPILER:FILEPATH=C:/Program Files (x86)/Windows Kits/10/bin/10.0.22000.0/x64/rc.exe
 
@@ -196,6 +211,15 @@ CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
+MyLib_BINARY_DIR:STATIC=C:/Users/user/Desktop/project c++/out/build/x64-Debug/lib
+
+//Value Computed by CMake
+MyLib_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+MyLib_SOURCE_DIR:STATIC=C:/Users/user/Desktop/project c++/lib
+
+//Value Computed by CMake
 Project_BINARY_DIR:STATIC=C:/Users/user/Desktop/project c++/out/build/x64-Debug
 
 //Value Computed by CMake
@@ -212,6 +236,24 @@ ROOT_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 ROOT_SOURCE_DIR:STATIC=C:/Users/user/Desktop/project c++
+
+//Value Computed by CMake
+config_BINARY_DIR:STATIC=C:/Users/user/Desktop/project c++/out/build/x64-Debug/includ
+
+//Value Computed by CMake
+config_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+config_SOURCE_DIR:STATIC=C:/Users/user/Desktop/project c++/includ
+
+//Value Computed by CMake
+main_BINARY_DIR:STATIC=C:/Users/user/Desktop/project c++/out/build/x64-Debug/src
+
+//Value Computed by CMake
+main_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+main_SOURCE_DIR:STATIC=C:/Users/user/Desktop/project c++/src
 
 
 ########################
